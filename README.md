@@ -3,7 +3,7 @@
 <h2> 👩🏾‍💻Cybersecurity Projects:</h2>
 
 
-  - [Cybersecurity Homelab](will insert url later)
+  - [Cybersecurity Homelab](https://github.com/Shearod/CyberSecurityHomelab)
 
 <h2> 📄Certificates</h2>
 
@@ -12,11 +12,7 @@
 - [ISC2 Candidate](https://www.credly.com/badges/5a45b792-e530-472a-8746-5db129d954a0/public_url)
 
 <h2> 🤳 Connect with me:</h2>
-will insert
-
-
-
-[linkedin]: will insert later
+<img align="left" alt="sarahhearod | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> Sarah Hearod
 
 <!--
 
