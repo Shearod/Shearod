@@ -4,6 +4,7 @@
 
 
   - [Cybersecurity Homelab](https://github.com/Shearod/CyberSecurityHomelab)
+  - [Digital Forensics Practice Lab]
 
 <h2> 📄Certificates</h2>
 
