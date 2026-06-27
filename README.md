@@ -5,6 +5,7 @@
 
   - [Cybersecurity Homelab](https://github.com/Shearod/CyberSecurityHomelab)
   - [Digital Forensics Practice Lab](https://github.com/Shearod/Digital_Forensics01)
+  - [NTFS Investigation](https://github.com/Shearod/NTFS-Investigation)
 
 <h2> 📄Certificates</h2>
 
